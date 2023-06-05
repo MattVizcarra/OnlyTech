@@ -1,0 +1,220 @@
+/* Comienza Navbar */
+.material-symbols-rounded {
+    margin: 10px;
+    color: white;
+    font-variation-settings:
+        'FILL' 1,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 48;
+}
+
+@media (max-width: 767.98px) {
+    .navbar-brand {
+        display: none;
+    }
+}
+
+.img-carrito-compra {
+    height: 50px;
+    width: 50px;
+}
+
+.btn-carrito {
+    background-color: transparent !important;
+    border-color: transparent !important;
+    padding: 0% !important;
+}
+
+/* Termina Navbar */
+/* Empieza CATEGORIAS CSS */
+@media (max-width: 767.98px) {
+    .media-container {
+        display: none;
+    }
+
+    .cat-media-p {
+        display: none;
+    }
+
+    .image-category-prom {
+        display: none;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .media-container {
+        display: none;
+    }
+
+    .cat-media-p {
+        display: none;
+    }
+
+    .image-category-prom {
+        display: none;
+    }
+
+}
+
+@media (min-width: 991.98px) {
+    .product-card4 {
+        display: none !important;
+    }
+
+    .product-img4 {
+        display: none !important;
+    }
+
+    .text-card-4 {
+        display: none !important;
+    }
+}
+@media (min-width: 767.98px) {
+    .inicio-nav {
+        display: none;
+    }
+}
+.cards-categorias-container {
+    margin: 0px !important;
+}
+
+.page-link {
+    border: none !important;
+    background-color: transparent !important;
+}
+
+
+.body {
+    background-color: rgba(228, 228, 228, 0.851);
+}
+
+.cat-name {
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.texto-card {
+    color: black;
+}
+.card-text-precio {
+    color: rgb(14, 211, 116);
+}
+
+/* Termina CATEGORÍA CSS */
+/* Comienza el Footer */
+.logo1 {
+    width: 80px;
+    height: 80px;
+}
+
+
+.logo2 {
+    width: 30px;
+    height: 30px;
+}
+
+.logo3 {
+    width: 30px;
+    height: 30px;
+}
+
+.logo4 {
+    width: 30px;
+    height: 30px;
+}
+
+.parrafo1 {
+    font-size: 20px;
+    color: white;
+}
+
+.parrafo2 {
+    font-size: 20px;
+    color: white;
+}
+
+.footer1 {
+    background-color: #023157 !important;
+    padding-top: 1vh;
+}
+
+.footer-logo-centro {
+    justify-content: center !important;
+}
+
+.redes-sociales {
+    margin-bottom: 2vh;
+}
+/* categoria-notebooks */
+.body{
+background-color: #E8E8E8;
+}
+/* Empieza CATEGORIAS CSS */
+@media (max-width: 767.98px) {
+    .media-container {
+        display: none;
+    }
+
+    .cat-media-p {
+        display: none;
+    }
+
+    .image-category-prom {
+        display: none;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .media-container {
+        display: none;
+    }
+
+    .cat-media-p {
+        display: none;
+    }
+
+    .image-category-prom {
+        display: none;
+    }
+
+    .cards-categorias-container {
+        justify-content: center !important;
+    }
+}
+
+@media (min-width: 991.98px) {
+    .product-card4 {
+        display: none !important;
+    }
+
+    .product-img4 {
+        display: none !important;
+    }
+
+    .text-card-4 {
+        display: none !important;
+    }
+}
+
+.cards-categorias-container {
+    margin: 15px;
+}
+
+.page-link {
+    border: none !important;
+    background-color: transparent !important;
+}
+
+.body {
+    background-color: rgba(228, 228, 228, 0.851);
+}
+
+.cat-name {
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.texto-card {
+    color: black;
+}
+
+/* Termina CATEGORÍA CSS */

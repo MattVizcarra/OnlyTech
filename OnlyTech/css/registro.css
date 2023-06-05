@@ -1,0 +1,104 @@
+.containerRegist {
+    background-image: url(../assets/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg);
+}
+
+
+.formRegist {
+    background: #065697;
+    background: radial-gradient(circle, #075291 0%, #023157 100%);
+    color: white;
+    border-radius: 15px;
+
+    -webkit-box-shadow: -1px 2px 20px -3px rgba(0, 0, 0, 0.8);
+    -moz-box-shadow: -1px 2px 20px -3px rgba(0, 0, 0, 0.8);
+    box-shadow: -1px 2px 20px -3px rgba(0, 0, 0, 0.8);
+
+
+
+}
+
+header {
+
+    background-color: azure;
+    width: 100%;
+}
+
+nav {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.material-symbols-rounded {
+    margin: 10px;
+    color: white;
+    font-variation-settings:
+        'FILL' 1,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 48;
+}
+
+@media (max-width: 767.98px) {
+    .navbar-brand {
+        display: none;
+    }
+}
+@media (min-width: 767.98px){
+    .inicio-nav {
+        display: none;
+    }
+}
+
+.img-carrito-compra {
+    height: 50px;
+    width: 50px;
+}
+
+.btn-carrito {
+    background-color: transparent !important;
+    border-color: transparent !important;
+    padding: 0% !important;
+}
+/* Comienza el Footer */
+.logo1 {
+    width: 80px;
+    height: 80px;
+}
+
+.logo2 {
+    width: 30px;
+    height: 30px;
+}
+
+.logo3 {
+    width: 30px;
+    height: 30px;
+}
+
+.logo4 {
+    width: 30px;
+    height: 30px;
+}
+
+.parrafo1 {
+    font-size: 20px;
+    color: white;
+}
+
+.parrafo2 {
+    font-size: 20px;
+    color: white;
+}
+
+.footer1 {
+    background-color: #023157 !important;
+    padding-top: 1vh;
+}
+
+.footer-logo-centro {
+    justify-content: center !important;
+}
+
+.redes-sociales {
+    margin-bottom: 2vh;
+}
